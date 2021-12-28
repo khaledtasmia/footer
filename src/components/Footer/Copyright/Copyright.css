@@ -1,0 +1,9 @@
+.cr {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+    background-color: cadetblue;
+    width: 100%;
+    height: 27px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
